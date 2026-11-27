@@ -1,0 +1,5 @@
+backend/build/
+backend/.gradle/
+backend/out/
+*.log
+.DS_Store
