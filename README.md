@@ -10,7 +10,6 @@ dependencies — no Docker, no external database.
   Web, Spring Data JPA, Bean Validation, H2 in-memory database.
 - `frontend/` — Next.js (App Router), TypeScript, Tailwind CSS, Vitest, React ( requires node 22+)
   Testing Library.
-- `handoff/` — placeholder for upcoming PRD / interview artifacts.
 
 ## Quickstart
 
